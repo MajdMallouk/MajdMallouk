@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Laravel projects
 - 📫 How to reach me: @Majd_mallouk for Telegram & Instagram.
 - 😄 Pronouns: Mjd
-- ⚡ Fun fact: People say dru**s are for people who can't handle reality... I say Reality is for people who can't handle dru**s.
+- ⚡ Fun fact: People say drugs are for people who can't handle reality... I say Reality is for people who can't handle drugs.
