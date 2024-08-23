@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MajdMallouk
-- 👀 I’m interested in Gaming, Hardcode sports, philosophy, and programming.
-- 🌱 I’m currently learning Laravel, Planning to learn MQL5 soon.
+- 👀 I’m interested in Gaming, Hardcore sports, philosophy, and programming.
+- 🌱 I’m currently learning Laravel and planning to learn MQL5 soon.
 - 💞️ I’m looking to collaborate on Laravel projects
 - 📫 How to reach me: @Majd_mallouk for Telegram & Instagram.
 - 😄 Pronouns: Mjd
