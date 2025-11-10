@@ -4,7 +4,7 @@ I'm a Laravel developer who loves building all kinds of projects—whether it's 
 
 ### 🚀 Featured Project
 - **[Wallety]([https://taskpro.space](https://wallety.rf.gd/public/)** – An open-source full-stack platform to manage your finances (kinda like Paypal) built from the ground, It's a user-friendly platform for seamless money transfers, deposits, and currency exchange. Users can send and receive funds using usernames or emails, and enjoy QR code scanning and generation for quick transactions.
-  #
+  
 [Repo](https://github.com/MajdMallouk/Wallety)
 .
 
