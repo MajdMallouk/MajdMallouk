@@ -1,6 +1,6 @@
 # Hi, I'm Majd Mallouk 👋
 
-Full-stack developer specializing in Laravel and Vue I like building all kinds of projects... whether it's a sleek web app, a complex backend, or something experimental just for fun.
+Full-stack developer specializing in Laravel and Vue. I like building all kinds of projects... whether it's a sleek web app, a complex backend, or something experimental just for fun.
 
 ### 🚀 Featured Project
 - **[Wallety](https://wallety.rf.gd/public/)** – An __open-source__ full-stack platform to manage your finances (kinda like Paypal) built from the ground, It's a user-friendly platform for seamless money transfers, deposits, and currency exchange. Users can send and receive funds using usernames or emails, and enjoy QR code scanning and generation for quick transactions.
